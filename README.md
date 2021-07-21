@@ -16,9 +16,8 @@
 - Selecting items as per choice, add them up to a table in Invoice Pane. Can make it set visible/invisible with top Menu Bar.
 - Further proceeding after checking the invoice, shows choices for payment methods (Cash/E wallet something). P.S. - This part isnt linked with any thing external. After entering details and proceeding, it counts to some 15-20 sec and then sends a confirmed message. Within this time, it was supposed to redirect to a payment portal, which was completely out of my scope that time.
 <br/>
-<br/>
-<br/>
 
+# P.S.
 - Initially decided, I would carry it more forward and will make a complete system with all working functionalities. Later discovered, carrying it forward would require redesigning it completely. Finally, since then, its like sort of an abandoned incomplete project, but still putting it here, coz it be my first accomplishment.
 - If you like to go through it once, I ll be glad. Bear me :). 
-- Thanks. 
+<br/>Thanks. 
